@@ -1,0 +1,14 @@
+이름 : 이서영
+학번 : 20243089
+
+관심분야
+- Hardware Accelerator Design
+- Deep Learning Acceleration
+- Computer Architecture
+- Enbedded Systems
+
+여름방학 목표
+- 지도교수님께 피드백 받으며 연구 꾸준히 진행하기
+- 하루에 알고리즘 강의 1개씩 듣기
+- 오픽 공부하기
+- 스스로 프로젝트 1개를 설정해서 끝까지 완성하기
